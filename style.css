@@ -1,5 +1,16 @@
 body{
+      background-image: url("gloingbroing2nd/images/gradient-tile.png");
+  background-repeat: repeat-x;
     background-color: #550000;
   color: white;
   text-align: center;
 }
+
+@font-face {
+	font-family: "Impact";
+	src: url("https://gloingbroing.github.io/gloingbroing2nd/fonts/impact.ttf");
+}
+a {
+    color: white;
+	font-family: "Impact";
+	text-align: center;
